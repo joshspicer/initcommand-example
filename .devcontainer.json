@@ -1,0 +1,4 @@
+{
+    "image": "joshspicer/josh",
+    "initializeCommand": "touch joshwashere.txt"
+}
