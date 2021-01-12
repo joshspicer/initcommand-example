@@ -1,4 +1,4 @@
 {
-    "image": "joshspicer/josh",
+    "image": "https://hub.docker.com/r/joshspicer/josh",
     "initializeCommand": "touch joshwashere.txt"
 }
