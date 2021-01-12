@@ -1,4 +1,4 @@
 {
-    "image": "https://hub.docker.com/r/joshspicer/josh",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu"
     "initializeCommand": "touch joshwashere.txt"
 }
