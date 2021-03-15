@@ -1,4 +1,5 @@
 {
     "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
-    "initializeCommand": "touch joshwashere.txt"
+    "initializeCommand": "touch joshwashere.txt",
+    "containerUser": "someone"
 }
